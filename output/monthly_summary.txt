@@ -1,0 +1,37 @@
+MONTHLY PORTFOLIO SYNTHESIS
+
+Projects reviewed: 2
+Portfolio health: 0 Green, 0 Amber, 2 Red
+Average score: 6.0/10
+Average completion: 100%
+
+Trend snapshot:
+- 2 project(s) are Red, 0 are Amber, and 0 are Green
+- Schedule slippage is the dominant cross-project risk
+
+Common risks:
+- Dependencies: 263FS +1d, 292, 293FS +2d, 332, 395, 421, 447
+- Dependencies: 3FS +7d, 8FF, 16FS +6d
+- Risks logged: Due to parallel phase 1 activities onsite workshop dates are impacted
+- Schedule is slipping by 8 days
+- Schedule is slipping by 81 days
+
+Most delayed milestones:
+- Go Live (61d behind)
+- Load delta master data via integration (63d behind)
+- P2P Cutover (62d behind)
+- Phase 2 - P2P (81d behind)
+- Review SOW with UniSan (8d behind)
+
+Red projects:
+- Zycus - UniSan S2P Implementation
+- Zycus - Titan S2P Implementation
+
+Amber projects:
+- None identified
+
+Recommendations:
+- Escalate the delivery risk and agree on a recovery plan within 48 hours
+
+Next Month Outlook:
+- Stabilize schedule-critical workstreams and remove blockers before the next steering review
