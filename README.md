@@ -17,7 +17,6 @@ flowchart TD
     E --> F[Monthly synthesis]
     F --> G[PowerPoint generator]
 
-
 ## Installation
 
 1. Create and activate a Python 3.12 virtual environment.
