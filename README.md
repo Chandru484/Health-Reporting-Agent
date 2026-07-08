@@ -8,7 +8,7 @@ The agent scans every workbook in `data/`, reads each worksheet, normalizes mess
 
 ## Architecture Diagram
 
-```mermaid
+
 flowchart TD
     A[Excel workbooks in data/] --> B[WorkbookAnalyzer]
     B --> C[RAGEngine]
@@ -16,7 +16,7 @@ flowchart TD
     D --> E[Weekly report generator]
     E --> F[Monthly synthesis]
     F --> G[PowerPoint generator]
-```
+
 
 ## Installation
 
