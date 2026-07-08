@@ -8,14 +8,27 @@ The agent scans every workbook in `data/`, reads each worksheet, normalizes mess
 
 ## Architecture Diagram
 
-
-flowchart TD
-    A[Excel workbooks in data/] --> B[WorkbookAnalyzer]
-    B --> C[RAGEngine]
-    C --> D[PMOAgent via Ollama]
-    D --> E[Weekly report generator]
-    E --> F[Monthly synthesis]
-    F --> G[PowerPoint generator]
+```text
+Excel workbooks in data/
+    |
+    v
+WorkbookAnalyzer
+    |
+    v
+RAGEngine
+    |
+    v
+PMOAgent via Ollama
+    |
+    v
+Weekly report generator
+    |
+    v
+Monthly synthesis
+    |
+    v
+PowerPoint generator
+```
 
 ## Installation
 
